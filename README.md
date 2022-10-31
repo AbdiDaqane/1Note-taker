@@ -21,6 +21,6 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ![alt text](assets1/Notes.png)
 
 ##Link
-https://git.heroku.com/boiling-hamlet-12244.git
+https://boiling-hamlet-12244.herokuapp.com
 
 
